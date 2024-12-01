@@ -18,6 +18,30 @@ In addition to hardware design, this GPT excels in programming the satellite's s
 [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 <br>
 [Rocket Lab](https://github.com/sourceduty/Rocket_Lab)
+<br>
+[Mars](https://github.com/sourceduty/Mars)
+<br>
+[SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Space Agencies](https://github.com/sourceduty/Space_Agencies)
+<br>
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
+<br>
+[Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+<br>
+[Alien Life](https://github.com/sourceduty/Alien_Life)
+<br>
+[Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
+<br>
+[WW3](https://github.com/sourceduty/WW3)
+<br>
+[Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
+<br>
+[Space Terminal](https://github.com/sourceduty/Space_Terminal)
+<br>
+[Cosmology](https://github.com/sourceduty/Cosmology)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
