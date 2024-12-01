@@ -8,6 +8,9 @@
 In addition to hardware design, this GPT excels in programming the satellite's software to manage mission-critical functions such as attitude control, data acquisition, and communication protocols. It incorporates fault-tolerant algorithms to maximize operational resilience and integrates autonomous features for power management and thermal regulation. The GPT also facilitates comprehensive testing, from simulations to hardware-in-the-loop tests, ensuring that the satellite can withstand the rigors of space and fulfill its mission objectives. By collaborating with launch providers and adhering to deployment standards, this GPT delivers end-to-end solutions that streamline the satellite's journey from concept to orbit.
 
 #
+![SpaceX](https://github.com/user-attachments/assets/822f5ce7-092f-412b-848e-358705a4a908)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
