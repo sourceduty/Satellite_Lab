@@ -16,6 +16,8 @@ In addition to hardware design, this GPT excels in programming the satellite's s
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
+<br>
+[Rocket Lab](https://github.com/sourceduty/Rocket_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
