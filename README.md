@@ -9,6 +9,8 @@ In addition to hardware design, this GPT excels in programming the satellite's s
 
 #
 ![SpaceX](https://github.com/user-attachments/assets/822f5ce7-092f-412b-848e-358705a4a908)
+#
+![Universe Shape](https://github.com/user-attachments/assets/70111939-150c-4d89-b031-fd11442778d1)
 
 #
 ### Related Links
